@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaytmGateway</string>
+    <string name="pay_with_paytm">Pay with Paytm</string>
+</resources>
